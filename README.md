@@ -1,1 +1,1 @@
-My first readme
+hello it is alx-pre_course readme
